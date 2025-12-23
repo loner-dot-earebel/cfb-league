@@ -1,5 +1,110 @@
 {
-  "conferences": [],
+  "conferences": [
+{
+  "name": "Southeastern Conference",
+  "requiredConferenceGames": 8,
+  "conferencePrestige": 95,
+  "tier": "Power",
+  "conferenceLogoURL": "https://a.espncdn.com/i/teamlogos/ncaa/conf/8.png",
+  "teams": [
+    {
+      "name": "Alabama Crimson Tide",
+      "mascot": "Crimson Tide",
+      "primary": "158,27,50",
+      "secondary": "255,255,255",
+      "tertiary": "130,130,130",
+      "prestige": 99,
+      "offenseScheme": "pro",
+      "defenseScheme": "3-4",
+      "abbreviation": "ALA",
+      "region": "Southeast",
+      "logoURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png"
+    },
+    {
+      "name": "Georgia Bulldogs",
+      "mascot": "Bulldogs",
+      "primary": "186,12,47",
+      "secondary": "0,0,0",
+      "tertiary": "255,255,255",
+      "prestige": 97,
+      "offenseScheme": "pro",
+      "defenseScheme": "3-4",
+      "abbreviation": "UGA",
+      "region": "Southeast",
+      "logoURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/61.png"
+    },
+    {
+      "name": "LSU Tigers",
+      "mascot": "Tigers",
+      "primary": "70,29,124",
+      "secondary": "253,208,35",
+      "tertiary": "255,255,255",
+      "prestige": 92,
+      "offenseScheme": "spread",
+      "defenseScheme": "4-3",
+      "abbreviation": "LSU",
+      "region": "Southeast",
+      "logoURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png"
+    },
+    {
+      "name": "Florida Gators",
+      "mascot": "Gators",
+      "primary": "0,33,165",
+      "secondary": "255,79,0",
+      "tertiary": "255,255,255",
+      "prestige": 88,
+      "offenseScheme": "spread",
+      "defenseScheme": "4-2-5",
+      "abbreviation": "FLA",
+      "region": "Southeast",
+      "logoURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png"
+    },
+    {
+      "name": "Tennessee Volunteers",
+      "mascot": "Volunteers",
+      "primary": "255,130,0",
+      "secondary": "255,255,255",
+      "tertiary": "88,88,88",
+      "prestige": 86,
+      "offenseScheme": "spread",
+      "defenseScheme": "4-2-5",
+      "abbreviation": "TENN",
+      "region": "Southeast",
+      "logoURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png"
+    },
+    {
+      "name": "Texas Longhorns",
+      "mascot": "Longhorns",
+      "primary": "191,87,0",
+      "secondary": "255,255,255",
+      "tertiary": "0,0,0",
+      "prestige": 94,
+      "offenseScheme": "pro",
+      "defenseScheme": "4-3",
+      "abbreviation": "TEX",
+      "region": "Southwest",
+      "logoURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png"
+    },
+    {
+      "name": "Oklahoma Sooners",
+      "mascot": "Sooners",
+      "primary": "132,22,23",
+      "secondary": "245,194,0",
+      "tertiary": "255,255,255",
+      "prestige": 93,
+      "offenseScheme": "spread",
+      "defenseScheme": "4-3",
+      "abbreviation": "OU",
+      "region": "Plains",
+      "logoURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/201.png"
+    }
+  ],
+  "protectedPairs": [
+    { "teamA": "Alabama Crimson Tide", "teamB": "Auburn Tigers", "mutual": true },
+    { "teamA": "Texas Longhorns", "teamB": "Oklahoma Sooners", "mutual": true },
+    { "teamA": "Georgia Bulldogs", "teamB": "Florida Gators", "mutual": true }
+  ]
+}
   "independents": [],
   "bowls": [
     { "name": "Rose Bowl", "logoURL": "https://a.espncdn.com/i/teamlogos/ncaa/bowls/rose.png" },
