@@ -1,0 +1,22 @@
+{
+  "conferences": [],
+  "independents": [],
+  "bowls": [
+    { "name": "Rose Bowl", "logoURL": "https://a.espncdn.com/i/teamlogos/ncaa/bowls/rose.png" },
+    { "name": "Sugar Bowl", "logoURL": "https://a.espncdn.com/i/teamlogos/ncaa/bowls/sugar.png" },
+    { "name": "Orange Bowl", "logoURL": "https://a.espncdn.com/i/teamlogos/ncaa/bowls/orange.png" },
+    { "name": "Cotton Bowl", "logoURL": "https://a.espncdn.com/i/teamlogos/ncaa/bowls/cotton.png" },
+    { "name": "Peach Bowl", "logoURL": "https://a.espncdn.com/i/teamlogos/ncaa/bowls/peach.png" },
+    { "name": "Fiesta Bowl", "logoURL": "https://a.espncdn.com/i/teamlogos/ncaa/bowls/fiesta.png" }
+  ],
+  "ny6Bowls": [
+    { "name": "Rose Bowl", "logoURL": "https://a.espncdn.com/i/teamlogos/ncaa/bowls/rose.png" },
+    { "name": "Sugar Bowl", "logoURL": "https://a.espncdn.com/i/teamlogos/ncaa/bowls/sugar.png" },
+    { "name": "Orange Bowl", "logoURL": "https://a.espncdn.com/i/teamlogos/ncaa/bowls/orange.png" },
+    { "name": "Cotton Bowl", "logoURL": "https://a.espncdn.com/i/teamlogos/ncaa/bowls/cotton.png" },
+    { "name": "Peach Bowl", "logoURL": "https://a.espncdn.com/i/teamlogos/ncaa/bowls/peach.png" },
+    { "name": "Fiesta Bowl", "logoURL": "https://a.espncdn.com/i/teamlogos/ncaa/bowls/fiesta.png" }
+  ],
+  "rivalries": [],
+  "protectedPairs": []
+}
