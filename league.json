@@ -1,0 +1,64 @@
+{
+  "leagueName": "CFB Realistic League",
+  "seasonYear": 2025,
+
+  "conferences": [
+    {
+      "name": "Southeastern Conference",
+      "requiredConferenceGames": 8,
+      "conferencePrestige": 95,
+      "tier": "Power",
+      "conferenceLogoURL": "https://a.espncdn.com/i/teamlogos/ncaa/conf/8.png",
+      "teams": [
+        {
+          "name": "Alabama Crimson Tide",
+          "mascot": "Crimson Tide",
+          "primary": "158,27,50",
+          "secondary": "255,255,255",
+          "tertiary": "130,130,130",
+          "prestige": 99,
+          "offenseScheme": "pro",
+          "defenseScheme": "3-4",
+          "abbreviation": "ALA",
+          "region": "Southeast",
+          "logoURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png"
+        },
+        {
+          "name": "Georgia Bulldogs",
+          "mascot": "Bulldogs",
+          "primary": "186,12,47",
+          "secondary": "0,0,0",
+          "tertiary": "255,255,255",
+          "prestige": 97,
+          "offenseScheme": "pro",
+          "defenseScheme": "3-4",
+          "abbreviation": "UGA",
+          "region": "Southeast",
+          "logoURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/61.png"
+        },
+        {
+          "name": "LSU Tigers",
+          "mascot": "Tigers",
+          "primary": "70,29,124",
+          "secondary": "253,208,35",
+          "tertiary": "255,255,255",
+          "prestige": 92,
+          "offenseScheme": "spread",
+          "defenseScheme": "4-3",
+          "abbreviation": "LSU",
+          "region": "Southeast",
+          "logoURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png"
+        }
+      ],
+      "protectedPairs": [
+        {
+          "teamA": "Alabama Crimson Tide",
+          "teamB": "Auburn Tigers",
+          "mutual": true
+        }
+      ]
+    }
+  ],
+
+  "subdivisionTeams": []
+}
